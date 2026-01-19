@@ -1,0 +1,23 @@
+{
+  "common": {
+    "welcome": "Selamat Datang",
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "success": "Berhasil",
+    "cancel": "Batal",
+    "save": "Simpan",
+    "delete": "Hapus",
+    "edit": "Ubah",
+    "search": "Cari"
+  },
+  "auth": {
+    "login": "Masuk",
+    "logout": "Keluar",
+    "register": "Daftar",
+    "email": "Email",
+    "password": "Kata Sandi",
+    "forgotPassword": "Lupa Kata Sandi?",
+    "dontHaveAccount": "Belum punya akun?",
+    "alreadyHaveAccount": "Sudah punya akun?"
+  }
+}

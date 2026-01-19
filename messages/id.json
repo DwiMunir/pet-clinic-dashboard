@@ -18,6 +18,25 @@
     "password": "Kata Sandi",
     "forgotPassword": "Lupa Kata Sandi?",
     "dontHaveAccount": "Belum punya akun?",
-    "alreadyHaveAccount": "Sudah punya akun?"
+    "alreadyHaveAccount": "Sudah punya akun?",
+    "signIn": "Masuk",
+    "signUp": "Daftar",
+    "emailAddress": "Alamat Email",
+    "enterEmail": "Masukkan email Anda",
+    "enterPassword": "Masukkan kata sandi Anda",
+    "rememberMe": "Ingat saya",
+    "createAccount": "Buat Akun",
+    "language": "Bahasa",
+    "english": "English",
+    "indonesian": "Bahasa",
+    "brandName": "ORION CAPITAL",
+    "brandSubtitle": "DESARROLLOS",
+    "fullName": "Nama Lengkap",
+    "enterFullName": "Masukkan nama lengkap Anda",
+    "confirmPassword": "Konfirmasi Kata Sandi",
+    "enterConfirmPassword": "Konfirmasi kata sandi Anda",
+    "agreeToTerms": "Saya setuju dengan Syarat dan Ketentuan",
+    "alreadyHaveAccountSignIn": "Sudah punya akun?",
+    "passwordMismatch": "Kata sandi tidak cocok"
   }
 }

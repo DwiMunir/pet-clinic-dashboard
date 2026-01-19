@@ -18,6 +18,25 @@
     "password": "Password",
     "forgotPassword": "Forgot Password?",
     "dontHaveAccount": "Don't have an account?",
-    "alreadyHaveAccount": "Already have an account?"
+    "alreadyHaveAccount": "Already have an account?",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "emailAddress": "Email Address",
+    "enterEmail": "Enter your email",
+    "enterPassword": "Enter your password",
+    "rememberMe": "Remember me",
+    "createAccount": "Create Account",
+    "language": "Language",
+    "english": "English",
+    "indonesian": "Bahasa",
+    "brandName": "ORION CAPITAL",
+    "brandSubtitle": "DESARROLLOS",
+    "fullName": "Full Name",
+    "enterFullName": "Enter your full name",
+    "confirmPassword": "Confirm Password",
+    "enterConfirmPassword": "Confirm your password",
+    "agreeToTerms": "I agree to the Terms and Conditions",
+    "alreadyHaveAccountSignIn": "Already have an account?",
+    "passwordMismatch": "Passwords do not match"
   }
 }
